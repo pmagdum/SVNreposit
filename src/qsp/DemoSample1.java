@@ -7,6 +7,7 @@ public class DemoSample1 {
 		System.out.println("This is another class in SVNReposit repository");
 		System.out.println("Check out from repository.");
 		System.out.println("from eclips....");
+		system.out.println("from repository....");
 
 	}
 
