@@ -8,6 +8,7 @@ public class DemoSample {
 		System.out.println("create your scripts here and save.");
 		System.out.println("This is first script..");
 		System.out.println("updataed from eclips..");
+		System.out.println("updataed from eclips..");
 
 	}
 
