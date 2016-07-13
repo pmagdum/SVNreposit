@@ -10,6 +10,8 @@ public class DemoSample {
 		System.out.println("updataed from eclips..");
 		System.out.println("updataed from eclips..");
 		System.out.println("updataed from eclips..from praveen elipse to priyanka github");
+		System.out.println("Hi... hello.... welcome....");
+			System.out.println("From github to praveen eclipse...");
 
 	}
 
